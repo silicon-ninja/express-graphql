@@ -1,15 +1,34 @@
-# Express with GraphQl and Mongo DB 
+# Express with GraphQL and Mongo DB 
+### Prerequisites 
+ * Dependencies Used
+   * Express (Framework)
+   * Mongoose (MongoDB)
+   * Nodemon 
+   * Express GraphQL
+   * GraphQL
+
+
+* Install all the dependencies by running this command 
+
+
+  ```
+  npm install
+  ```
+* Make sure you are connected to the MongoDB by adding the Mongo URL to .env file and exporting it
+* Run the server by this command 
+
+
+  ```
+  npm start
+  ```
 ## GraphQL 
 ---
 After Running,
-```
-npm start
-```
 Go to this endpoint to play with GraphQL GUI
 ```
 http://localhost:8080/graphql
 ```
-Make sure you are connected to the MongoDB 
+ 
  * ## Data Insertion
     ```
     mutation {
