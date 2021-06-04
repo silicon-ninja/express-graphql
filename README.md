@@ -20,7 +20,7 @@
   MongoURL="Add your Mongo URL Here....."
   ```
 
-* Run the server by this command 
+* Run the server 
 
 
   ```
