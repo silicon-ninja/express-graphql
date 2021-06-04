@@ -27,7 +27,7 @@
   npm start
   ```
 ## GraphQL 
----
+
 After Running,
 Go to this endpoint to play with GraphQL GUI
 ```
