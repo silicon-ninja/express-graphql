@@ -15,6 +15,11 @@
   npm install
   ```
 * Make sure you are connected to the MongoDB by adding the Mongo URL to .env file and exporting it
+  
+  ```
+  MongoURL="Add your Mongo URL Here....."
+  ```
+
 * Run the server by this command 
 
 
