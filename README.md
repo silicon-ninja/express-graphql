@@ -14,7 +14,7 @@
   ```
   npm install
   ```
-* Make sure you are connected to the MongoDB by adding the Mongo URL to .env file and exporting it
+* Make sure you are connected to the MongoDB by adding the Mongo URL to .env file and export it
   
   ```
   MongoURL="Add your Mongo URL Here....."
