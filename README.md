@@ -1,4 +1,4 @@
-# Event Management Server using Express with GraphQL and Mongo 
+# Event Management Server using Express with GraphQL and Mongo DB
 ### Prerequisites 
  * Dependencies Used
    * Express (Framework)
