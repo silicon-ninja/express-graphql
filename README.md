@@ -1,4 +1,12 @@
 # Event Management Backend using Express with GraphQL and Mongo DB
+
+
+  
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
+  
+
+
+
 ### Prerequisites 
  * Dependencies Used
    * Express (Framework)
