@@ -1,4 +1,12 @@
-# Express with GraphQL and Mongo DB 
+# Event Management Backend using Express with GraphQL and Mongo DB
+
+
+  
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
+  
+
+
+
 ### Prerequisites 
  * Dependencies Used
    * Express (Framework)
@@ -14,15 +22,20 @@
   ```
   npm install
   ```
-* Make sure you are connected to the MongoDB by adding the Mongo URL to .env file and exporting it
-* Run the server by this command 
+* Make sure you are connected to the MongoDB by adding the Mongo URL to .env file and export it
+  
+  ```
+  MongoURL="Add your Mongo URL Here....."
+  ```
+
+* Run the server 
 
 
   ```
   npm start
   ```
 ## GraphQL 
----
+
 After Running,
 Go to this endpoint to play with GraphQL GUI
 ```
