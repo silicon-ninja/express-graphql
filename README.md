@@ -66,4 +66,3 @@ http://localhost:8080/graphql
   ```
 
 
-updated readme 2
